@@ -1,8 +1,8 @@
 ## Hi! I'm Thibaut
 
-- 🇫🇷 French engineering student
-- 🎮 Creating video games in my free time
-- 🧐 Always interested in learning new skills
+- French engineering student
+- Creating video games in my free time
+- Always interested in learning new skills
 
 ### Showcase of my main projects
 
