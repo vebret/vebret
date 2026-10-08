@@ -1,4 +1,4 @@
-## Hi I'm Thibaut
+## Hi! I'm Thibaut
 
 - 🇫🇷 French engineering student
 - 🎮 Creating video games in his free time
